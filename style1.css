@@ -1,0 +1,17 @@
+.box1{
+    background-color: darksalmon;
+    padding: 2px;
+}
+#inner-box{
+    background-color: rgb(203, 194, 207);
+    border: 2px solid black
+}
+.box3{
+    background-color: rgb(199, 235, 167);
+    border: 2px solid black;
+}
+#outer-box{
+    background-color: black;
+    padding: 2px;
+    border: 2px solid black;
+}
